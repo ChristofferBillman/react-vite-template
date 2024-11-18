@@ -4,8 +4,6 @@ import style from './Icon.module.css'
 
 interface Props {
 	name: string
-	size?: string
-	color?: string
 	className?: string
 }
 

@@ -8,10 +8,10 @@ Eslint is used for linting. Instead of pulling in a tool like prettier for forma
 NOTE: 
 This must be added to your settings.json in vscode to get warnings and errors from eslint. It also fixes linting errors on save.
 ```
-	"editor.formatOnSave": false,
-	"editor.codeActionsOnSave": {
-		"source.fixAll.eslint": "explicit"
-	}
+"editor.formatOnSave": false,
+"editor.codeActionsOnSave": {
+	"source.fixAll.eslint": "explicit"
+}
 ```
 
 ## Styling

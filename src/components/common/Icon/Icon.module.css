@@ -1,6 +1,8 @@
 .icon {
-	font-size: inherit;
+	font-size: 1.1em;
+	color: inherit;
 	cursor: pointer;
 	user-select: none;
-	font-variation-settings: \FILL\ 0, \wght\ 400;
+	font-variation-settings: "FILL" 0, "wght" 400;
+	vertical-align: bottom;
 }
