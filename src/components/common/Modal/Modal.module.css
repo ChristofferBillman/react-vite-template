@@ -1,0 +1,8 @@
+.modal {
+	z-index: 1000;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform-origin: center;
+	box-shadow: 2px 2px 50vw 150vw rgba(0,0,0,0.3)
+}
